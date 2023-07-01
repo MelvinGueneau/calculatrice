@@ -22,7 +22,7 @@ Guide d'utilisation :
 -  Clonez ou téléchargez les fichiers de ce projet.
 -  Ouvrez un terminal/commande dans le répertoire du projet.
 -  Exécutez la commande suivante pour lancer le programme : python calculator.py
--  
+
 La calculatrice s'affiche avec deux champs pour les nombres et des boutons radio pour sélectionner l'opération. Saisissez les nombres dans les champs correspondants.
 Sélectionnez l'opération souhaitée en cliquant sur le bouton radio approprié. Cliquez sur le bouton "Calculer" pour afficher le résultat dans l'étiquette en bas de la fenêtre.
 Exemple
