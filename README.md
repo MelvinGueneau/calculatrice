@@ -15,7 +15,7 @@ Prérequis :
 -  Python 3.x
 -  Tkinter (généralement inclus dans les distributions Python)
 
--  
+
 Guide d'utilisation :
 
 -  Assurez-vous d'avoir Python installé sur votre machine.
